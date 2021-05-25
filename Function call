@@ -1,0 +1,11 @@
+#include<stdio.h>
+void sample();
+void main()
+{
+ sample();
+}
+
+void sample()
+{
+ printf("This is a sample func");
+}
